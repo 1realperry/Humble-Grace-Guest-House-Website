@@ -22,7 +22,7 @@
 
         <!-- Content Side -->
         <div class="about-content" data-aos="fade-left">
-          <span class="section-label">Nina Barnes</span>
+          <span class="section-label">About Us</span>
           <h2>A Legacy of Warmth &<br><span class="text-gradient">Ghanaian Hospitality</span></h2>
           
           <p class="about-lead">
