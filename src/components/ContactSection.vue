@@ -146,7 +146,7 @@
                 </div>
                 <div class="info-content">
                   <strong>Address</strong>
-                  <p>123 Airport Residential Area<br>Accra, Ghana</p>
+                  <p>Ashongman Estate<br>Accra, Ghana</p>
                 </div>
               </div>
 
@@ -158,7 +158,7 @@
                 </div>
                 <div class="info-content">
                   <strong>Phone</strong>
-                  <p>+233 XX XXX XXXX<br>+233 XX XXX XXXX</p>
+                  <p>+233 24 580 4063<br>+233 24 580 4063</p>
                 </div>
               </div>
 
